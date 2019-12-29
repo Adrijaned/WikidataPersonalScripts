@@ -1,0 +1,2 @@
+mwapi
+requests_oauthlib
