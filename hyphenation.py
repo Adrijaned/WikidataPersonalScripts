@@ -16,16 +16,12 @@ session = mwapi.Session(
 lexemeID = input("Enter ID of the lexeme: ")  # L204262
 
 token = session.get(action='query', meta='tokens')['query']['tokens']['csrftoken']
-thing = session.get(action="wbgetentities", ids=lexemeID)
-forms = thing["entities"][lexemeID]["forms"]
+forms = session.get(action="wbgetentities", ids=lexemeID)["entities"][lexemeID]["forms"]
 
 forms_new = [x for x in forms if x["claims"] == [] or "P5279" not in x["claims"].keys()]
-print(forms_new)
 
 forms_texts = [x["representations"]["cs"]["value"] for x in forms_new]
-# print(f"len = {len(forms_texts)}; contents = {forms_texts}")
 forms_texts = list(dict.fromkeys(forms_texts))
-# print(f"len = {len(forms_texts)}; contents = {forms_texts}")
 
 for word in forms_texts:
     approved = False
@@ -39,7 +35,6 @@ for word in forms_texts:
             syllables = syllables + [word[last_cut:hole]]
             last_cut = hole
         syllables.append(word[last_cut:])
-        # print(f"{word}, {syllables}")
         deravyslovo = ("‧".join(syllables))
         approved = input(f"Is \"{deravyslovo}\" correct? Y/N") == "Y"
     for form in forms_new:
