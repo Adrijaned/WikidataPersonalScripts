@@ -1,0 +1,184 @@
+:: 1. pád, rod mužský životný, jednotné číslo, 1. stupeň
+:: 2. pád, rod mužský životný, jednotné číslo, 1. stupeň
+:: 3. pád, rod mužský životný, jednotné číslo, 1. stupeň
+:: 4. pád, rod mužský životný, jednotné číslo, 1. stupeň
+:: 5. pád, rod mužský životný, jednotné číslo, 1. stupeň
+:: 6. pád, rod mužský životný, jednotné číslo, 1. stupeň
+:: 7. pád, rod mužský životný, jednotné číslo, 1. stupeň
+:: 1. pád, rod mužský neživotný, jednotné číslo, 1. stupeň
+:: 2. pád, rod mužský neživotný, jednotné číslo, 1. stupeň
+:: 3. pád, rod mužský neživotný, jednotné číslo, 1. stupeň
+:: 4. pád, rod mužský neživotný, jednotné číslo, 1. stupeň
+:: 5. pád, rod mužský neživotný, jednotné číslo, 1. stupeň
+:: 6. pád, rod mužský neživotný, jednotné číslo, 1. stupeň
+:: 7. pád, rod mužský neživotný, jednotné číslo, 1. stupeň
+:: 1. pád, rod ženský, jednotné číslo, 1. stupeň
+:: 2. pád, rod ženský, jednotné číslo, 1. stupeň
+:: 3. pád, rod ženský, jednotné číslo, 1. stupeň
+:: 4. pád, rod ženský, jednotné číslo, 1. stupeň
+:: 5. pád, rod ženský, jednotné číslo, 1. stupeň
+:: 6. pád, rod ženský, jednotné číslo, 1. stupeň
+:: 7. pád, rod ženský, jednotné číslo, 1. stupeň
+:: 1. pád, rod střední, jednotné číslo, 1. stupeň
+:: 2. pád, rod střední, jednotné číslo, 1. stupeň
+:: 3. pád, rod střední, jednotné číslo, 1. stupeň
+:: 4. pád, rod střední, jednotné číslo, 1. stupeň
+:: 5. pád, rod střední, jednotné číslo, 1. stupeň
+:: 6. pád, rod střední, jednotné číslo, 1. stupeň
+:: 7. pád, rod střední, jednotné číslo, 1. stupeň
+:: 1. pád, rod mužský životný, množné číslo, 1. stupeň
+:: 2. pád, rod mužský životný, množné číslo, 1. stupeň
+:: 3. pád, rod mužský životný, množné číslo, 1. stupeň
+:: 4. pád, rod mužský životný, množné číslo, 1. stupeň
+:: 5. pád, rod mužský životný, množné číslo, 1. stupeň
+:: 6. pád, rod mužský životný, množné číslo, 1. stupeň
+:: 7. pád, rod mužský životný, množné číslo, 1. stupeň
+:: 1. pád, rod mužský neživotný, množné číslo, 1. stupeň
+:: 2. pád, rod mužský neživotný, množné číslo, 1. stupeň
+:: 3. pád, rod mužský neživotný, množné číslo, 1. stupeň
+:: 4. pád, rod mužský neživotný, množné číslo, 1. stupeň
+:: 5. pád, rod mužský neživotný, množné číslo, 1. stupeň
+:: 6. pád, rod mužský neživotný, množné číslo, 1. stupeň
+:: 7. pád, rod mužský neživotný, množné číslo, 1. stupeň
+:: 1. pád, rod ženský, množné číslo, 1. stupeň
+:: 2. pád, rod ženský, množné číslo, 1. stupeň
+:: 3. pád, rod ženský, množné číslo, 1. stupeň
+:: 4. pád, rod ženský, množné číslo, 1. stupeň
+:: 5. pád, rod ženský, množné číslo, 1. stupeň
+:: 6. pád, rod ženský, množné číslo, 1. stupeň
+:: 7. pád, rod ženský, množné číslo, 1. stupeň
+:: 1. pád, rod střední, množné číslo, 1. stupeň
+:: 2. pád, rod střední, množné číslo, 1. stupeň
+:: 3. pád, rod střední, množné číslo, 1. stupeň
+:: 4. pád, rod střední, množné číslo, 1. stupeň
+:: 5. pád, rod střední, množné číslo, 1. stupeň
+:: 6. pád, rod střední, množné číslo, 1. stupeň
+:: 7. pád, rod střední, množné číslo, 1. stupeň
+:: 1. pád, rod mužský životný, jednotné číslo, 2. stupeň
+:: 2. pád, rod mužský životný, jednotné číslo, 2. stupeň
+:: 3. pád, rod mužský životný, jednotné číslo, 2. stupeň
+:: 4. pád, rod mužský životný, jednotné číslo, 2. stupeň
+:: 5. pád, rod mužský životný, jednotné číslo, 2. stupeň
+:: 6. pád, rod mužský životný, jednotné číslo, 2. stupeň
+:: 7. pád, rod mužský životný, jednotné číslo, 2. stupeň
+:: 1. pád, rod mužský neživotný, jednotné číslo, 2. stupeň
+:: 2. pád, rod mužský neživotný, jednotné číslo, 2. stupeň
+:: 3. pád, rod mužský neživotný, jednotné číslo, 2. stupeň
+:: 4. pád, rod mužský neživotný, jednotné číslo, 2. stupeň
+:: 5. pád, rod mužský neživotný, jednotné číslo, 2. stupeň
+:: 6. pád, rod mužský neživotný, jednotné číslo, 2. stupeň
+:: 7. pád, rod mužský neživotný, jednotné číslo, 2. stupeň
+:: 1. pád, rod ženský, jednotné číslo, 2. stupeň
+:: 2. pád, rod ženský, jednotné číslo, 2. stupeň
+:: 3. pád, rod ženský, jednotné číslo, 2. stupeň
+:: 4. pád, rod ženský, jednotné číslo, 2. stupeň
+:: 5. pád, rod ženský, jednotné číslo, 2. stupeň
+:: 6. pád, rod ženský, jednotné číslo, 2. stupeň
+:: 7. pád, rod ženský, jednotné číslo, 2. stupeň
+:: 1. pád, rod střední, jednotné číslo, 2. stupeň
+:: 2. pád, rod střední, jednotné číslo, 2. stupeň
+:: 3. pád, rod střední, jednotné číslo, 2. stupeň
+:: 4. pád, rod střední, jednotné číslo, 2. stupeň
+:: 5. pád, rod střední, jednotné číslo, 2. stupeň
+:: 6. pád, rod střední, jednotné číslo, 2. stupeň
+:: 7. pád, rod střední, jednotné číslo, 2. stupeň
+:: 1. pád, rod mužský životný, množné číslo, 2. stupeň
+:: 2. pád, rod mužský životný, množné číslo, 2. stupeň
+:: 3. pád, rod mužský životný, množné číslo, 2. stupeň
+:: 4. pád, rod mužský životný, množné číslo, 2. stupeň
+:: 5. pád, rod mužský životný, množné číslo, 2. stupeň
+:: 6. pád, rod mužský životný, množné číslo, 2. stupeň
+:: 7. pád, rod mužský životný, množné číslo, 2. stupeň
+:: 1. pád, rod mužský neživotný, množné číslo, 2. stupeň
+:: 2. pád, rod mužský neživotný, množné číslo, 2. stupeň
+:: 3. pád, rod mužský neživotný, množné číslo, 2. stupeň
+:: 4. pád, rod mužský neživotný, množné číslo, 2. stupeň
+:: 5. pád, rod mužský neživotný, množné číslo, 2. stupeň
+:: 6. pád, rod mužský neživotný, množné číslo, 2. stupeň
+:: 7. pád, rod mužský neživotný, množné číslo, 2. stupeň
+:: 1. pád, rod ženský, množné číslo, 2. stupeň
+:: 2. pád, rod ženský, množné číslo, 2. stupeň
+:: 3. pád, rod ženský, množné číslo, 2. stupeň
+:: 4. pád, rod ženský, množné číslo, 2. stupeň
+:: 5. pád, rod ženský, množné číslo, 2. stupeň
+:: 6. pád, rod ženský, množné číslo, 2. stupeň
+:: 7. pád, rod ženský, množné číslo, 2. stupeň
+:: 1. pád, rod střední, množné číslo, 2. stupeň
+:: 2. pád, rod střední, množné číslo, 2. stupeň
+:: 3. pád, rod střední, množné číslo, 2. stupeň
+:: 4. pád, rod střední, množné číslo, 2. stupeň
+:: 5. pád, rod střední, množné číslo, 2. stupeň
+:: 6. pád, rod střední, množné číslo, 2. stupeň
+:: 7. pád, rod střední, množné číslo, 2. stupeň
+:: 1. pád, rod mužský životný, jednotné číslo, 3. stupeň
+:: 2. pád, rod mužský životný, jednotné číslo, 3. stupeň
+:: 3. pád, rod mužský životný, jednotné číslo, 3. stupeň
+:: 4. pád, rod mužský životný, jednotné číslo, 3. stupeň
+:: 5. pád, rod mužský životný, jednotné číslo, 3. stupeň
+:: 6. pád, rod mužský životný, jednotné číslo, 3. stupeň
+:: 7. pád, rod mužský životný, jednotné číslo, 3. stupeň
+:: 1. pád, rod mužský neživotný, jednotné číslo, 3. stupeň
+:: 2. pád, rod mužský neživotný, jednotné číslo, 3. stupeň
+:: 3. pád, rod mužský neživotný, jednotné číslo, 3. stupeň
+:: 4. pád, rod mužský neživotný, jednotné číslo, 3. stupeň
+:: 5. pád, rod mužský neživotný, jednotné číslo, 3. stupeň
+:: 6. pád, rod mužský neživotný, jednotné číslo, 3. stupeň
+:: 7. pád, rod mužský neživotný, jednotné číslo, 3. stupeň
+:: 1. pád, rod ženský, jednotné číslo, 3. stupeň
+:: 2. pád, rod ženský, jednotné číslo, 3. stupeň
+:: 3. pád, rod ženský, jednotné číslo, 3. stupeň
+:: 4. pád, rod ženský, jednotné číslo, 3. stupeň
+:: 5. pád, rod ženský, jednotné číslo, 3. stupeň
+:: 6. pád, rod ženský, jednotné číslo, 3. stupeň
+:: 7. pád, rod ženský, jednotné číslo, 3. stupeň
+:: 1. pád, rod střední, jednotné číslo, 3. stupeň
+:: 2. pád, rod střední, jednotné číslo, 3. stupeň
+:: 3. pád, rod střední, jednotné číslo, 3. stupeň
+:: 4. pád, rod střední, jednotné číslo, 3. stupeň
+:: 5. pád, rod střední, jednotné číslo, 3. stupeň
+:: 6. pád, rod střední, jednotné číslo, 3. stupeň
+:: 7. pád, rod střední, jednotné číslo, 3. stupeň
+:: 1. pád, rod mužský životný, množné číslo, 3. stupeň
+:: 2. pád, rod mužský životný, množné číslo, 3. stupeň
+:: 3. pád, rod mužský životný, množné číslo, 3. stupeň
+:: 4. pád, rod mužský životný, množné číslo, 3. stupeň
+:: 5. pád, rod mužský životný, množné číslo, 3. stupeň
+:: 6. pád, rod mužský životný, množné číslo, 3. stupeň
+:: 7. pád, rod mužský životný, množné číslo, 3. stupeň
+:: 1. pád, rod mužský neživotný, množné číslo, 3. stupeň
+:: 2. pád, rod mužský neživotný, množné číslo, 3. stupeň
+:: 3. pád, rod mužský neživotný, množné číslo, 3. stupeň
+:: 4. pád, rod mužský neživotný, množné číslo, 3. stupeň
+:: 5. pád, rod mužský neživotný, množné číslo, 3. stupeň
+:: 6. pád, rod mužský neživotný, množné číslo, 3. stupeň
+:: 7. pád, rod mužský neživotný, množné číslo, 3. stupeň
+:: 1. pád, rod ženský, množné číslo, 3. stupeň
+:: 2. pád, rod ženský, množné číslo, 3. stupeň
+:: 3. pád, rod ženský, množné číslo, 3. stupeň
+:: 4. pád, rod ženský, množné číslo, 3. stupeň
+:: 5. pád, rod ženský, množné číslo, 3. stupeň
+:: 6. pád, rod ženský, množné číslo, 3. stupeň
+:: 7. pád, rod ženský, množné číslo, 3. stupeň
+:: 1. pád, rod střední, množné číslo, 3. stupeň
+:: 2. pád, rod střední, množné číslo, 3. stupeň
+:: 3. pád, rod střední, množné číslo, 3. stupeň
+:: 4. pád, rod střední, množné číslo, 3. stupeň
+:: 5. pád, rod střední, množné číslo, 3. stupeň
+:: 6. pád, rod střední, množné číslo, 3. stupeň
+:: 7. pád, rod střední, množné číslo, 3. stupeň
+:: 1. pád, rod mužský životný, jednotné číslo, jmenný tvar
+:: 4. pád, rod mužský životný, jednotné číslo, jmenný tvar
+:: 1. pád, rod mužský neživotný, jednotné číslo, jmenný tvar
+:: 4. pád, rod mužský neživotný, jednotné číslo, jmenný tvar
+:: 1. pád, rod ženský, jednotné číslo, jmenný tvar
+:: 4. pád, rod ženský, jednotné číslo, jmenný tvar
+:: 1. pád, rod střední, jednotné číslo, jmenný tvar
+:: 4. pád, rod střední, jednotné číslo, jmenný tvar
+:: 1. pád, rod mužský životný, množné číslo, jmenný tvar
+:: 4. pád, rod mužský životný, množné číslo, jmenný tvar
+:: 1. pád, rod mužský neživotný, množné číslo, jmenný tvar
+:: 4. pád, rod mužský neživotný, množné číslo, jmenný tvar
+:: 1. pád, rod ženský, množné číslo, jmenný tvar
+:: 4. pád, rod ženský, množné číslo, jmenný tvar
+:: 1. pád, rod střední, množné číslo, jmenný tvar
+:: 4. pád, rod střední, množné číslo, jmenný tvar
