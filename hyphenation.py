@@ -23,6 +23,7 @@ forms_new = [x for x in forms if x["claims"] == [] or "P5279" not in x["claims"]
 forms_texts = [x["representations"]["cs"]["value"] for x in forms_new]
 forms_texts = list(dict.fromkeys(forms_texts))
 
+whatever = []
 for word in forms_texts:
     approved = False
     while not approved:
@@ -36,8 +37,11 @@ for word in forms_texts:
             last_cut = hole
         syllables.append(word[last_cut:])
         deravyslovo = ("‧".join(syllables))
-        approved = input(f"Is \"{deravyslovo}\" correct? Y/N") == "Y"
+        approved = input(f"Is \"{deravyslovo}\" correct? Y/N ").upper() == "Y"
     for form in forms_new:
         if word == form["representations"]["cs"]["value"]:
-            session.post(action="wbcreateclaim", entity=form['id'], snaktype='value', property="P5279",
-                         value=f'"{deravyslovo}"', token=token)
+            whatever.append(f'{{"id":"{form["id"]}","claims":[{{"mainsnak": {{"snaktype": "value", "property": "P5279",'
+                            f' "datavalue": {{"value": "{deravyslovo}", "type": '
+                            '"string"}}, "type": "statement", "rank": "normal"}]}')
+session.post(action='wbeditentity', id=lexemeID, summary="Added hyphenation data", token=token,
+             data='{"forms":[' + ','.join(whatever) + ']}')
